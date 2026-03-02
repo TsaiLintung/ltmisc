@@ -1,3 +1,4 @@
+library(ggplot2)
 
 mytheme <- theme_bw() + theme(
     text = element_text(size = 18, family = "Times New Roman"),
